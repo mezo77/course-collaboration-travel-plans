@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 node_modules
 .DS_Store
 npm-debug.log
@@ -43,6 +44,14 @@ lighthouse-cli/types/*.map
 /chrome.zip
 
 plots/out**
+||||||| merged common ancestors
+=======
+.DS_Store
+.eslintrc.json
+.htmlhintrc
+.stylelintrc
+.editorconfig
+>>>>>>> upstream/master
 ||||||| merged common ancestors
 =======
 .DS_Store
